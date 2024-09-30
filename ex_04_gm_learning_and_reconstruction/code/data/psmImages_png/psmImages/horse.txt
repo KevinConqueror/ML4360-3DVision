@@ -1,0 +1,14 @@
+12
+psmImages/horse/horse.0.png
+psmImages/horse/horse.1.png
+psmImages/horse/horse.2.png
+psmImages/horse/horse.3.png
+psmImages/horse/horse.4.png
+psmImages/horse/horse.5.png
+psmImages/horse/horse.6.png
+psmImages/horse/horse.7.png
+psmImages/horse/horse.8.png
+psmImages/horse/horse.9.png
+psmImages/horse/horse.10.png
+psmImages/horse/horse.11.png
+psmImages/horse/horse.mask.png

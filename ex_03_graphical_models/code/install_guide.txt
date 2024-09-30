@@ -1,0 +1,21 @@
+Follow the instructions for your OS to install the Python package manager conda:
+https://docs.conda.io/projects/conda/en/latest/user-guide/install/
+
+Open a terminal in this directory.
+
+Create a new environment named lecturecv and install required packages (numpy, etc.) via running:
+conda env create -f environment.yml
+
+Note: A typical source of error is to use an old version of conda itself. You can update it via:
+conda update -n base conda -c anaconda
+
+Before launching your notebook you need to activate the environment:
+conda activate lecturecv-ex02
+
+Depending on your configuration, you might instead need to run:
+source activate lecturecv-ex02
+
+You can now start jupyter notebook from the directory:
+jupyter-notebook
+
+A browser window should be opened in which you can open the notebook of the first exercise called image_formation.ipynb

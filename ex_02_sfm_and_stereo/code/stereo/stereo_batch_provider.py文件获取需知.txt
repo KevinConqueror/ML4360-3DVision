@@ -1,0 +1,1 @@
+因为阿里云盘不支持*.zip、*.npz和*.py文件，所以我把数据放在了github上，链接是：https://github.com/pengsida/configuration/tree/master/teaching

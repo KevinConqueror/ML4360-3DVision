@@ -1,0 +1,15 @@
+name: lecturecv1
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.8
+  - jupyterlab=3.0.14
+  - numpy=1.19.2
+  - matplotlib=3.3.4
+  - scipy=1.6.2 
+  - imageio=2.9.0
+  - pip=21.0.1
+  - pip:
+    - opencv-python==4.5.1.48

@@ -1,0 +1,14 @@
+12
+psmImages/owl/owl.0.png
+psmImages/owl/owl.1.png
+psmImages/owl/owl.2.png
+psmImages/owl/owl.3.png
+psmImages/owl/owl.4.png
+psmImages/owl/owl.5.png
+psmImages/owl/owl.6.png
+psmImages/owl/owl.7.png
+psmImages/owl/owl.8.png
+psmImages/owl/owl.9.png
+psmImages/owl/owl.10.png
+psmImages/owl/owl.11.png
+psmImages/owl/owl.mask.png
