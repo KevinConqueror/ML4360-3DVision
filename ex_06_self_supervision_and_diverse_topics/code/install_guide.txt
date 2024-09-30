@@ -1,0 +1,24 @@
+Follow the instructions for your OS to install the Python package manager conda:
+https://docs.conda.io/projects/conda/en/latest/user-guide/install/
+
+Open a terminal in this directory.
+
+Create a new environment named lecturecv and install required packages (numpy, etc.) via running:
+conda env create -f environment.yml
+
+Note: A typical source of error is to use an old version of conda itself. You can update it via:
+conda update -n base conda -c anaconda
+
+Before launching your notebook you need to activate the environment:
+conda activate lecturecv-ex06
+
+Depending on your configuration, you might instead need to run:
+source activate lecturecv-ex06
+
+You can now start jupyter notebook from the directory:
+jupyter-notebook
+
+If you encounter "IOPub message rate exceeded" while downloading the datasets, you can launch the notebook with the following extra flag:
+jupyter-notebook --NotebookApp.iopub_data_rate_limit=1.0e10
+
+A browser window should be opened in which you can open the notebook of the exercise called self_supervision.ipynb

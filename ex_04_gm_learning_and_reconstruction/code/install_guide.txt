@@ -1,0 +1,19 @@
+Follow the instructions for your OS to install the Python package manager conda:
+https://docs.conda.io/projects/conda/en/latest/user-guide/install/
+
+Open a terminal in this directory.
+
+Create a new environment and install required packages (numpy, etc.) via running:
+conda env create -f environment.yml
+
+conda activate lecturecv-ex04
+
+# cd into data, download the data and cd back:
+cd data
+./get_data.sh
+cd ..
+
+You can now start jupyter notebook from the directory:
+jupyter-notebook
+
+A browser window should be opened in which you can open the notebooks.

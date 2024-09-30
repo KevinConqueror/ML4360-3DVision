@@ -1,0 +1,14 @@
+12
+psmImages/rock/rock.0.png
+psmImages/rock/rock.1.png
+psmImages/rock/rock.2.png
+psmImages/rock/rock.3.png
+psmImages/rock/rock.4.png
+psmImages/rock/rock.5.png
+psmImages/rock/rock.6.png
+psmImages/rock/rock.7.png
+psmImages/rock/rock.8.png
+psmImages/rock/rock.9.png
+psmImages/rock/rock.10.png
+psmImages/rock/rock.11.png
+psmImages/rock/rock.mask.png

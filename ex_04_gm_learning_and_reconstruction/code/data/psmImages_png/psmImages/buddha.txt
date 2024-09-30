@@ -1,0 +1,14 @@
+12
+psmImages/buddha/buddha.0.png
+psmImages/buddha/buddha.1.png
+psmImages/buddha/buddha.2.png
+psmImages/buddha/buddha.3.png
+psmImages/buddha/buddha.4.png
+psmImages/buddha/buddha.5.png
+psmImages/buddha/buddha.6.png
+psmImages/buddha/buddha.7.png
+psmImages/buddha/buddha.8.png
+psmImages/buddha/buddha.9.png
+psmImages/buddha/buddha.10.png
+psmImages/buddha/buddha.11.png
+psmImages/buddha/buddha.mask.png
